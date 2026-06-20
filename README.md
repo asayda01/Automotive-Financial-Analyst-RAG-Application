@@ -207,10 +207,6 @@ model="llama-3.1-8b-instant"
 search_kwargs={"k": 3}
 ```
 
-## Author
-
-Built for Consigli Technical Interview
-
 ## Acknowledgments
 
 - LangChain for RAG framework
